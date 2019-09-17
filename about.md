@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about_me/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/sample_feature_img.png"
 ---
 
 Hello! My name is Daniele, I was born in 1997 and I'm enrolled at the University of Camerino (Italy).
